@@ -8,7 +8,7 @@
 
 ---
 
-### Available Skills 💻
+### Available Skills (or Studying) 💻
 ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%20Sharp-6C31A7?style=plastic&logo=c-sharp&logoColor=white)
