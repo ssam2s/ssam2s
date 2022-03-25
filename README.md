@@ -35,11 +35,6 @@
 
 ---
 
-### Algorithm Level (OnGoing) 📖
-![Solved.ac Profile](http://mazassumnida.wtf/api/pastel/generate_badge?boj=ssam2s)
-
----
-
 ### My Stat ⚡
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ssam2s&show_icons=true)
 
