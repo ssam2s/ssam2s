@@ -4,6 +4,7 @@
 
 ### Junhyeok Seo (서준혁) [Junior in College]
 #### - Major in Computer Engineering, Kumoh National Institute of Technology, KOREA
+#### - System Software Lab. Undergraduate Member
 #### - Contact : ssam2s@naver.com
 
 ---
