@@ -1,10 +1,9 @@
-### Welcome to My GitHub 👋
-
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&color=00D8FF&height=300&section=header&text=JunhyeokSeo&fontSize=90&fontColor=EAEAEA"/></p>
 
 ### Junhyeok Seo (서준혁) [Junior in College]
-#### - Major in Computer Engineering, Kumoh National Institute of Technology, KOREA
-#### - System Software Lab. Undergraduate Member
+#### - Department of Computer Engineering, Kumoh National Institute of Technology, KOREA
+#### - System Software Lab, Kumoh National Institute of Techonology, KOREA
+#### - Interests : Full-Stack Development, Crawling, Text Mining, Task Automation
 #### - Contact : ssam2s@naver.com
 
 ---
@@ -19,6 +18,7 @@
 ![HTML](https://img.shields.io/badge/HTML-DD3C1F?style=plastic&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=Css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
 ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=plastic&logo=JQuery&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white)
 
@@ -37,6 +37,9 @@
 ---
 
 ### My Stat ⚡
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssam2s&layout=compact&hide=AutoHotkey)](https://github.com/anuraghazra/github-readme-stats)
+<br></br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ssam2s&show_icons=true)
+
 
 
