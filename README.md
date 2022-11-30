@@ -8,6 +8,9 @@
 
 ---
 
+### Research 💻
+#### - Deep Learning-Based Vehicle Model and License Plate Identification System using Vehicle Images (2022)
+#### - Domain Dictionary Construction for Automatic Analysis of University CQI Reports
 
 ---
 
