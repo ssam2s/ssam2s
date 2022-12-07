@@ -10,9 +10,9 @@
 
 ### Research 💻
 #### - 차량 영상을 이용한 딥러닝 기반 차종 및 번호판 식별 시스템 (한국정보기술학회, 2022)
-#####         - Deep Learning-Based Vehicle Model and License Plate Identification System using Vehicle Images (Korean Institute of Information Technology, 2022)
+#####         - Deep Learning-Based Vehicle Model and License Plate Identification System using Vehicle Images (KIIT, 2022)
 #### - 대학 CQI 보고서의 자동 분석을 위한 도메인 사전 구축 (한국정보기술학회, 2022)
-#####         - Domain Dictionary Construction for Automatic Analysis of University CQI Reports (Korean Institute of Information Technology, 2022)
+#####         - Domain Dictionary Construction for Automatic Analysis of University CQI Reports (KIIT, 2022)
 
 ---
 
