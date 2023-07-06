@@ -2,9 +2,9 @@
 
 ### Jun-Hyeok Seo (서준혁)
 #### - Department of Computer Engineering, Kumoh National Institute of Technology, KOREA
-#### - System Software Lab. Kumoh National Institute of Techonology, KOREA
+#### - System Software Lab. Kumoh National Institute of Technology, KOREA
 #### - Computer Vision and Machine Intelligence Lab. Kyungpook National University, KOREA
-#### - Research Interests : Image Segmentation, Deep Learning
+#### - Research Interests : Computer Vision, Deep Learning
 #### - Contact : ssam2s@naver.com
 
 ---
