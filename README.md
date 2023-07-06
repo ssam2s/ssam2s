@@ -1,9 +1,9 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&color=00D8FF&height=300&section=header&text=JunhyeokSeo&fontSize=90&fontColor=EAEAEA"/></p>
 
-### Junhyeok Seo (서준혁) [Junior in College]
+### Junhyeok Seo (서준혁) [Senior in College]
 #### - Department of Computer Engineering, Kumoh National Institute of Technology, KOREA
 #### - System Software Lab, Kumoh National Institute of Techonology, KOREA
-#### - Interests : Image Processing, Object Detection, Image Segmentation
+#### - Interests : Image Segmentation
 #### - Contact : ssam2s@naver.com
 
 ---
