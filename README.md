@@ -1,6 +1,6 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&color=00D8FF&height=300&section=header&text=JunhyeokSeo&fontSize=90&fontColor=EAEAEA"/></p>
 
-### Jun-Hyeok Seo (서준혁)
+### Junhyeok Seo (서준혁)
 #### - Department of Computer Engineering, Kumoh National Institute of Technology, KOREA
 #### - System Software Lab. Kumoh National Institute of Technology, KOREA
 #### - Computer Vision and Machine Intelligence Lab. Kyungpook National University, KOREA
