@@ -21,7 +21,6 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/C++-1C509C?style=flat-square&logo=C%2B%2B&&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
 </p>
 
