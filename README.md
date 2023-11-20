@@ -1,11 +1,10 @@
 ### 📝 About Me  
 - **Junhyeok Seo** **(서준혁)**
-- (2020.3 ~ 2024.2) B.S, Computer Engineering, Kumoh National Institue of Techonology, KOREA
-- (2024.2 ~ ) M.S, Artificial Intelligence, Kyungpook National University, KOREA
-- Department of Computer Engineering, Kumoh National Institute of Technology, KOREA
+- B.S, Computer Engineering, Kumoh National Institue of Techonology, KOREA (2020.3 ~ 2024.2) 
+- M.S, Artificial Intelligence, Kyungpook National University, KOREA (2024.2 ~ )
 - ***System Software Lab.*** - Kumoh National Institute of Technology, KOREA
 - ***Computer Vision and Machine Intelligence Lab.***- Kyungpook National University, KOREA
-- Research Area : Unsupervised Domain Adaptation, Semantic Segmentation
+- Research Interests : Unsupervised Domain Adaptation, Semantic Segmentation
 - Contact : ssam2s@naver.com
 
 <h3>🛠 Skills</h3>
