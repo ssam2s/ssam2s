@@ -1,9 +1,11 @@
 ### 📝 About Me  
 - **Junhyeok Seo** **(서준혁)**
+- (2020.3 ~ 2024.2) B.S, Computer Engineering, Kumoh National Institue of Techonology, KOREA
+- (2024.2 ~ ) M.S, Artificial Intelligence, Kyungpook National University, KOREA
 - Department of Computer Engineering, Kumoh National Institute of Technology, KOREA
 - ***System Software Lab.*** - Kumoh National Institute of Technology, KOREA
 - ***Computer Vision and Machine Intelligence Lab.***- Kyungpook National University, KOREA
-- Research Area : Computer Vision, Machine Learning, Deep Learning
+- Research Area : Unsupervised Domain Adaptation, Semantic Segmentation
 - Contact : ssam2s@naver.com
 
 <h3>🛠 Skills</h3>
@@ -40,7 +42,9 @@
 - G. Kim, J. Park, **J. Seo**, Y. Jung, H. Yoon.(2022).Domain Dictionary Construction for Automatic Analysis of Subject CQI Reports. Proceedings of KIIT Conference, 564-565.
 - Winning a Silver Award for Outstanding Paper 🥈
 <br><br>
-- **J. Seo**, G. Kim, Junsu Park, S. Kim.(2023).Segmentation of Stain Area in Clothing Images using UNet++. Proceedings of KIIT Conference
+- **J. Seo**, G. Kim, J. Park, S. Kim.(2023).Segmentation of Stain Area in Clothing Images using UNet++. Proceedings of KIIT Conference
 - Winning a Bronze Award for Outstanding Paper 🥉
 <br><br>
-- **J. Seo**, H. Yoon.(2023).Deep Learning-Based Vehicle Damage Area Detection System using Semantic Segmentation. KCC 2023 
+- **J. Seo**, H. Yoon.(2023).Deep Learning-Based Vehicle Damage Area Detection System using Semantic Segmentation. KCC 2023
+- <br><br>
+- **J. Seo**, S. Jang, M. Kim, H. Yoon.(2023).Robust Captcha Image Recognition Algorithm Using Transformer-Based OCR Model. Proceedings of KIIT Conference
