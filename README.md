@@ -1,6 +1,6 @@
 ### 📝 About Me  
 - Junhyeok Seo (서준혁)
-- B.S. of Computer Engineering, Kumoh National Institue of Techonology, KOREA (2020.3 ~ 2024.2) 
+- B.S. of Computer Engineering, Kumoh National Institute of Techonology, KOREA (2020.3 ~ 2024.2) 
 - M.S. of Artificial Intelligence, Kyungpook National University, KOREA (2024.2 ~ )
 - System Software Lab. - Kumoh National Institute of Technology, KOREA
 - Computer Vision and Machine Intelligence Lab. - Kyungpook National University, KOREA
