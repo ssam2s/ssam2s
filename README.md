@@ -1,5 +1,3 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&color=00D8FF&height=300&section=header&text=JunhyeokSeo&fontSize=90&fontColor=EAEAEA"/></p>
-
 ### 📝 About Me  
 - **Junhyeok Seo** **(서준혁)**
 - Department of Computer Engineering, Kumoh National Institute of Technology, KOREA
