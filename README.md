@@ -2,8 +2,8 @@
 - Junhyeok Seo (서준혁)
 - B.S. Computer Engineering, Kumoh National Institue of Techonology, KOREA (2020.3 ~ 2024.2) 
 - M.S. Artificial Intelligence, Kyungpook National University, KOREA (2024.2 ~ )
-- ***System Software Lab.*** - Kumoh National Institute of Technology, KOREA
-- ***Computer Vision and Machine Intelligence Lab.***- Kyungpook National University, KOREA
+- System Software Lab. - Kumoh National Institute of Technology, KOREA
+- Computer Vision and Machine Intelligence Lab. - Kyungpook National University, KOREA
 - Research Interests : Unsupervised Domain Adaptation, Semantic Segmentation
 - Contact : ssam2s@naver.com
 
@@ -45,5 +45,5 @@
 - Winning a Bronze Award for Outstanding Paper 🥉
 <br><br>
 - **J. Seo**, H. Yoon.(2023).Deep Learning-Based Vehicle Damage Area Detection System using Semantic Segmentation. KCC 2023
-- <br><br>
+<br><br>
 - **J. Seo**, S. Jang, M. Kim, H. Yoon.(2023).Robust Captcha Image Recognition Algorithm Using Transformer-Based OCR Model. Proceedings of KIIT Conference
