@@ -35,15 +35,16 @@
 | Computer Vision & Machine Intelligence Lab.<br>(Undergraduate Research Intern) | 2023.07 ~ Present | • Participating Seminar of the Lab.<br>• Preparing for the Master's Course |
 
 ### 📖 Publication
-- **J. Seo**, H. Yoon.(2022).Deep Learning-Based Vehicle Model and License Plate Identification System using Vehicle Images. Proceedings of KIIT Conference, 447-451.
+- **J. Seo**, H. Yoon.(2022).Deep Learning-Based Vehicle Model and License Plate Identification System using Vehicle Images. Proceedings of KIIT Conference.
 - Winning a Gold Award for Outstanding Paper 🥇
 <br><br>
-- G. Kim, J. Park, **J. Seo**, Y. Jung, H. Yoon.(2022).Domain Dictionary Construction for Automatic Analysis of Subject CQI Reports. Proceedings of KIIT Conference, 564-565.
+- G. Kim, J. Park, **J. Seo**, Y. Jung, H. Yoon.(2022).Domain Dictionary Construction for Automatic Analysis of Subject CQI Reports. Proceedings of KIIT Conference.
 - Winning a Silver Award for Outstanding Paper 🥈
 <br><br>
-- **J. Seo**, G. Kim, J. Park, S. Kim.(2023).Segmentation of Stain Area in Clothing Images using UNet++. Proceedings of KIIT Conference
+- **J. Seo**, G. Kim, J. Park, S. Kim.(2023).Segmentation of Stain Area in Clothing Images using UNet++. Proceedings of KIIT Conference.
 - Winning a Bronze Award for Outstanding Paper 🥉
 <br><br>
-- **J. Seo**, H. Yoon.(2023).Deep Learning-Based Vehicle Damage Area Detection System using Semantic Segmentation. KCC 2023
+- **J. Seo**, H. Yoon.(2023).Deep Learning-Based Vehicle Damage Area Detection System using Semantic Segmentation. KCC 2023.
 <br><br>
-- **J. Seo**, S. Jang, M. Kim, H. Yoon.(2023).Robust Captcha Image Recognition Algorithm Using Transformer-Based OCR Model. Proceedings of KIIT Conference
+- **J. Seo**, S. Jang, M. Kim, H. Yoon.(2023).Robust Captcha Image Recognition Algorithm Using Transformer-Based OCR Model. Proceedings of KIIT Conference.
+- Winning a Bronze Award for Outstanding Paper 🥉
