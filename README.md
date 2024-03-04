@@ -4,7 +4,7 @@
 - M.S. of Artificial Intelligence, Kyungpook National University, KOREA (2024.2 ~ )
 - System Software Lab. - Kumoh National Institute of Technology, KOREA
 - Computer Vision and Machine Intelligence Lab. - Kyungpook National University, KOREA
-- Research Interests : Unsupervised Domain Adaptation, Semantic Segmentation
+- Research Interests : Domain Adaptation, Computer Vision
 - Contact : ssam2s@naver.com
 
 <h3>🛠 Skills</h3>
@@ -31,8 +31,8 @@
 | LG Aimers<br>(Education of AI Engineering) | 2022.07 ~ 2022.08 | • Linear Algebra<br>• Machine/Deep Learning |
 | College Freshmen Mentor<br>(Selection From the Entire Department) | 2021.02 ~ 2022.02 | • Helpful Counseling for College Freshmen<br>• Participating Diverse Programs  |
 | Academic Society<br>(셈틀꾼) | 2022.02 ~ 2023.02 | • Leader of the Society<br>• Operating Study Groups & Projects |
-| System Software Lab.<br>(Undergraduate Research Intern) | 2022.02 ~ Present | • Participating Seminar of the Lab.<br>• Conducting Personal Research |
-| Computer Vision & Machine Intelligence Lab.<br>(Undergraduate Research Intern) | 2023.07 ~ Present | • Participating Seminar of the Lab.<br>• Preparing for the Master's Course |
+| System Software Lab.<br>(Undergraduate Research Intern) | 2022.02 ~ 2024.02 | • Participating Seminar of the Lab.<br>• Conducting Personal Research |
+| Computer Vision & Machine Intelligence Lab.<br>(Undergraduate Research Intern) | 2023.07 ~ 2023.08 | • Participating Seminar of the Lab.<br>• Preparing for the Master's Course |
 
 ### 📖 Publication
 - **J. Seo**, H. Yoon.(2022).Deep Learning-Based Vehicle Model and License Plate Identification System using Vehicle Images. Proceedings of KIIT Conference.
