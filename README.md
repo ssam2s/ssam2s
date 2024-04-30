@@ -4,7 +4,7 @@
 - M.S. of Artificial Intelligence, Kyungpook National University, KOREA (2024.2 ~ )
 - System Software Lab. - Kumoh National Institute of Technology, KOREA
 - Computer Vision and Machine Intelligence Lab. - Kyungpook National University, KOREA
-- Research Interests : Domain Adaptation, Computer Vision
+- Research Interests : Image Super-Resolution, Unsupervised Learning
 - Contact : ssam2s@naver.com
 
 <h3>🛠 Skills</h3>
