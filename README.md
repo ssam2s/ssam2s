@@ -52,7 +52,7 @@
 <br><br>
 
 ### 🏆 Awards
-- **J. Seo**, Y. Yoon, **1st Place Winner(대구광역시장상)**, 대구광역시 공공데이터 활용 창업경진대회, 2024, 대구광역시 [Link](https://n.news.naver.com/article/030/0003228170?sid=102)
+- **J. Seo**, Y. Yoon, **1st Place Winner(대구광역시장상)**, 대구광역시 공공데이터 활용 창업경진대회, 2024, [[Link]](https://n.news.naver.com/article/030/0003228170?sid=102)
 <br><br>
 - **J. Seo**, S. Jang, M. Kim, H. Yoon, **Winning a Bronze Award for Outstanding Paper**, Proceedings of KIIT Conference, 2023, Korean Institute of Information Technology
 <br><br>
