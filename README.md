@@ -6,6 +6,8 @@
 - Research Interests : Image Super-Resolution, Continual Learning
 - Contact : ssam2s@knu.ac.kr
 
+<br><br>
+
 <h3>🛠 Skills</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -22,6 +24,8 @@
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
 </p>
 
+<br><br>
+
 ### ✨ Experience
 | Name | Date | Role |
 |:------------:|:----:|------|
@@ -32,6 +36,8 @@
 | TimeComs Inc.<br>(Affiliated Research Institute) | 2022.07 ~ 2022.08 | • Web Front-End Publishing |
 | WONIK QnC Inc.<br>(Facility Management Team) | 2021.07 ~ 2021.08 | • Developing Office Automation Tools<br>• Data Processing & Analysis |
 | College Freshmen Mentor<br>(Selection From the Entire Department) | 2021.02 ~ 2022.02 | • Helpful Counseling for College Freshmen<br>• Participating Diverse Programs  |
+
+<br><br>
 
 ### 📖 Publication
 - **J. Seo**, S. Jang, M. Kim, H. Yoon.(2023).Robust Captcha Image Recognition Algorithm Using Transformer-Based OCR Model. Proceedings of KIIT Conference.
@@ -44,8 +50,13 @@
 <br><br>
 - **J. Seo**, H. Yoon.(2022).Deep Learning-Based Vehicle Model and License Plate Identification System using Vehicle Images. Proceedings of KIIT Conference.
 
+<br><br>
+
 ### 🏆 Awards
 - **J. Seo**, S. Jang, M. Kim, H. Yoon, Winning a **Bronze Award** for Outstanding Paper, Proceedings of KIIT Conference, 2023, Korean Institute of Information Technology
+<br><br>
 - **J. Seo**, G. Kim, J. Park, S. Kim, Winning a **Bronze Award** for Outstanding Paper, Proceedings of KIIT Conference, 2023, Korean Institute of Information Technology
+<br><br>
 - G. Kim, J. Park, **J. Seo**, Y. Jung, H. Yoon, Winning a **Silver Award** for Outstanding Paper, Proceedings of KIIT Conference, 2022, Korean Institute of Information Technology
+<br><br>
 - **J. Seo**, H. Yoon, Winning a **Gold Award** for Outstanding Paper, Proceedings of KIIT Conference, 2022, Korean Institute of Information Technology
