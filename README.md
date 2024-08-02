@@ -49,10 +49,11 @@
 - G. Kim, J. Park, **J. Seo**, Y. Jung, H. Yoon.(2022).Domain Dictionary Construction for Automatic Analysis of Subject CQI Reports. Proceedings of KIIT Conference.
 <br><br>
 - **J. Seo**, H. Yoon.(2022).Deep Learning-Based Vehicle Model and License Plate Identification System using Vehicle Images. Proceedings of KIIT Conference.
-
 <br><br>
 
 ### 🏆 Awards
+- **J. Seo**, Y. Yoon, **1st Place Winner(대구광역시장상)**, 대구광역시 공공데이터 활용 창업경진대회, 2024, 대구광역시 [Link](https://n.news.naver.com/article/030/0003228170?sid=102)
+<br><br>
 - **J. Seo**, S. Jang, M. Kim, H. Yoon, **Winning a Bronze Award for Outstanding Paper**, Proceedings of KIIT Conference, 2023, Korean Institute of Information Technology
 <br><br>
 - **J. Seo**, G. Kim, J. Park, S. Kim, **Winning a Bronze Award for Outstanding Paper**, Proceedings of KIIT Conference, 2023, Korean Institute of Information Technology
