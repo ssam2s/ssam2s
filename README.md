@@ -2,10 +2,9 @@
 - Junhyeok Seo (서준혁)
 - B.S. of Computer Engineering, Kumoh National Institute of Techonology, KOREA (2020.3 ~ 2024.2) 
 - M.S. of Artificial Intelligence, Kyungpook National University, KOREA (2024.2 ~ )
-- System Software Lab. - Kumoh National Institute of Technology, KOREA
 - Computer Vision and Machine Intelligence Lab. - Kyungpook National University, KOREA
-- Research Interests : Image Super-Resolution, Unsupervised Learning
-- Contact : ssam2s@naver.com
+- Research Interests : Image Super-Resolution, Continual Learning
+- Contact : ssam2s@knu.ac.kr
 
 <h3>🛠 Skills</h3>
 <p align="center">
@@ -26,13 +25,13 @@
 ### ✨ Experience
 | Name | Date | Role |
 |:------------:|:----:|------|
-| WONIK QnC Inc.<br>(Facility Management Team) | 2021.07 ~ 2021.08 | • Developing Office Automation Tools<br>• Data Processing & Analysis |
-| TimeComs Inc.<br>(Affiliated Research Institute) | 2022.07 ~ 2022.08 | • Web Front-End Publishing |
-| LG Aimers<br>(Education of AI Engineering) | 2022.07 ~ 2022.08 | • Linear Algebra<br>• Machine/Deep Learning |
-| College Freshmen Mentor<br>(Selection From the Entire Department) | 2021.02 ~ 2022.02 | • Helpful Counseling for College Freshmen<br>• Participating Diverse Programs  |
-| Academic Society<br>(셈틀꾼) | 2022.02 ~ 2023.02 | • Leader of the Society<br>• Operating Study Groups & Projects |
-| System Software Lab.<br>(Undergraduate Research Intern) | 2022.02 ~ 2024.02 | • Participating Seminar of the Lab.<br>• Conducting Personal Research |
 | Computer Vision & Machine Intelligence Lab.<br>(Undergraduate Research Intern) | 2023.07 ~ 2023.08 | • Participating Seminar of the Lab.<br>• Preparing for the Master's Course |
+| System Software Lab.<br>(Undergraduate Research Intern) | 2022.02 ~ 2024.02 | • Participating Seminar of the Lab.<br>• Conducting Personal Research |
+| Academic Society<br>(셈틀꾼) | 2022.02 ~ 2023.02 | • Leader of the Society<br>• Operating Study Groups & Projects |
+| LG Aimers<br>(Education of AI Engineering) | 2022.07 ~ 2022.08 | • Linear Algebra<br>• Machine/Deep Learning |
+| TimeComs Inc.<br>(Affiliated Research Institute) | 2022.07 ~ 2022.08 | • Web Front-End Publishing |
+| WONIK QnC Inc.<br>(Facility Management Team) | 2021.07 ~ 2021.08 | • Developing Office Automation Tools<br>• Data Processing & Analysis |
+| College Freshmen Mentor<br>(Selection From the Entire Department) | 2021.02 ~ 2022.02 | • Helpful Counseling for College Freshmen<br>• Participating Diverse Programs  |
 
 ### 📖 Publication
 - **J. Seo**, S. Jang, M. Kim, H. Yoon.(2023).Robust Captcha Image Recognition Algorithm Using Transformer-Based OCR Model. Proceedings of KIIT Conference.
