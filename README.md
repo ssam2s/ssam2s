@@ -53,10 +53,10 @@
 <br><br>
 
 ### 🏆 Awards
-- **J. Seo**, S. Jang, M. Kim, H. Yoon, Winning a **Bronze Award** for Outstanding Paper, Proceedings of KIIT Conference, 2023, Korean Institute of Information Technology
+- **J. Seo**, S. Jang, M. Kim, H. Yoon, **Winning a Bronze Award for Outstanding Paper**, Proceedings of KIIT Conference, 2023, Korean Institute of Information Technology
 <br><br>
-- **J. Seo**, G. Kim, J. Park, S. Kim, Winning a **Bronze Award** for Outstanding Paper, Proceedings of KIIT Conference, 2023, Korean Institute of Information Technology
+- **J. Seo**, G. Kim, J. Park, S. Kim, **Winning a Bronze Award for Outstanding Paper**, Proceedings of KIIT Conference, 2023, Korean Institute of Information Technology
 <br><br>
-- G. Kim, J. Park, **J. Seo**, Y. Jung, H. Yoon, Winning a **Silver Award** for Outstanding Paper, Proceedings of KIIT Conference, 2022, Korean Institute of Information Technology
+- G. Kim, J. Park, **J. Seo**, Y. Jung, H. Yoon, **Winning a Silver Award for Outstanding Paper**, Proceedings of KIIT Conference, 2022, Korean Institute of Information Technology
 <br><br>
-- **J. Seo**, H. Yoon, Winning a **Gold Award** for Outstanding Paper, Proceedings of KIIT Conference, 2022, Korean Institute of Information Technology
+- **J. Seo**, H. Yoon, **Winning a Gold Award for Outstanding Paper**, Proceedings of KIIT Conference, 2022, Korean Institute of Information Technology
