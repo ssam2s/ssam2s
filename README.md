@@ -6,8 +6,6 @@
 - Research Interests : Image Super-Resolution, Continual Learning
 - Contact : ssam2s@knu.ac.kr
 
-<br><br>
-
 <h3>🛠 Skills</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -24,8 +22,6 @@
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
 </p>
 
-<br><br>
-
 ### ✨ Experience
 | Name | Date | Role |
 |:------------:|:----:|------|
@@ -37,8 +33,6 @@
 | WONIK QnC Inc.<br>(Facility Management Team) | 2021.07 ~ 2021.08 | • Developing Office Automation Tools<br>• Data Processing & Analysis |
 | College Freshmen Mentor<br>(Selection From the Entire Department) | 2021.02 ~ 2022.02 | • Helpful Counseling for College Freshmen<br>• Participating Diverse Programs  |
 
-<br><br>
-
 ### 📖 Publication
 - **J. Seo**, S. Jang, M. Kim, H. Yoon.(2023).Robust Captcha Image Recognition Algorithm Using Transformer-Based OCR Model. Proceedings of KIIT Conference.
 <br><br>
@@ -49,7 +43,6 @@
 - G. Kim, J. Park, **J. Seo**, Y. Jung, H. Yoon.(2022).Domain Dictionary Construction for Automatic Analysis of Subject CQI Reports. Proceedings of KIIT Conference.
 <br><br>
 - **J. Seo**, H. Yoon.(2022).Deep Learning-Based Vehicle Model and License Plate Identification System using Vehicle Images. Proceedings of KIIT Conference.
-<br><br>
 
 ### 🏆 Awards
 - **J. Seo**, Y. Yoon, **1st Place Winner(대구광역시장상)**, 대구광역시 공공데이터 활용 창업경진대회, 2024, [[Link]](https://n.news.naver.com/article/030/0003228170?sid=102)
