@@ -34,8 +34,8 @@ Computer Vision and Machine Learning Researcher
 - **J. Seo**, H. Yoon.(2022).Deep Learning-Based Vehicle Model and License Plate Identification System using Vehicle Images. Proceedings of KIIT Conference.
 
 #### Awards
-- **J. Seo**, Y. Yoon, **1st Place Winner(대구광역시장상)**, 대구광역시 공공데이터 활용 창업경진대회, 2024, [[Link]](https://n.news.naver.com/article/030/0003228170?sid=102)
-- **J. Seo**, S. Jang, M. Kim, H. Yoon, **Winning a Bronze Award for Outstanding Paper**, Proceedings of KIIT Conference, 2023, Korean Institute of Information Technology
-- **J. Seo**, G. Kim, J. Park, S. Kim, **Winning a Bronze Award for Outstanding Paper**, Proceedings of KIIT Conference, 2023, Korean Institute of Information Technology
-- G. Kim, J. Park, **J. Seo**, Y. Jung, H. Yoon, **Winning a Silver Award for Outstanding Paper**, Proceedings of KIIT Conference, 2022, Korean Institute of Information Technology
-- **J. Seo**, H. Yoon, **Winning a Gold Award for Outstanding Paper**, Proceedings of KIIT Conference, 2022, Korean Institute of Information Technology
+- **1st Place Winner(대구광역시장상)**, 대구광역시 공공데이터 활용 창업경진대회, 2024, [[Link]](https://n.news.naver.com/article/030/0003228170?sid=102)
+- **Winning a Bronze Award for Outstanding Paper**, Proceedings of KIIT Conference, 2023, Korean Institute of Information Technology
+- **Winning a Bronze Award for Outstanding Paper**, Proceedings of KIIT Conference, 2023, Korean Institute of Information Technology
+- **Winning a Silver Award for Outstanding Paper**, Proceedings of KIIT Conference, 2022, Korean Institute of Information Technology
+- **Winning a Gold Award for Outstanding Paper**, Proceedings of KIIT Conference, 2022, Korean Institute of Information Technology
