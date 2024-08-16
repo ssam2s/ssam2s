@@ -7,7 +7,7 @@ Computer Vision and Machine Learning Researcher
 - Multimodal Learning
 - Continual Learning
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/ssam2s/)](https://github.com/ssam2s/)
+[![Tech Blog Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/ssam2s/)](https://github.com/ssam2s/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ki-hyun-kim/)](https://www.linkedin.com/in/ki-hyun-kim/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/pointzz)](https://www.facebook.com/pointzz)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nlp.with.deep.learning@gmail.com)](mailto:nlp.with.deep.learning@gmail.com)
