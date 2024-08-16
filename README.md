@@ -25,35 +25,17 @@ Computer Vision and Machine Learning Researcher
 - Research Intern of System Software Lab. @ Kumoh National Institute of Technology - 2022.02 ~ 2024.02
 - Research Intern of Computer Vision and Machine Intelligence Lab. @ Kyungpook National University - 2023.06 ~ 2024.02
 
-### ✨ Experience
-| Name | Date | Role |
-|:------------:|:----:|------|
-| Computer Vision & Machine Intelligence Lab.<br>(Undergraduate Research Intern) | 2023.07 ~ 2023.08 | • Participating Seminar of the Lab.<br>• Preparing for the Master's Course |
-| System Software Lab.<br>(Undergraduate Research Intern) | 2022.02 ~ 2024.02 | • Participating Seminar of the Lab.<br>• Conducting Personal Research |
-| Academic Society<br>(셈틀꾼) | 2022.02 ~ 2023.02 | • Leader of the Society<br>• Operating Study Groups & Projects |
-| LG Aimers<br>(Education of AI Engineering) | 2022.07 ~ 2022.08 | • Linear Algebra<br>• Machine/Deep Learning |
-| TimeComs Inc.<br>(Affiliated Research Institute) | 2022.07 ~ 2022.08 | • Web Front-End Publishing |
-| WONIK QnC Inc.<br>(Facility Management Team) | 2021.07 ~ 2021.08 | • Developing Office Automation Tools<br>• Data Processing & Analysis |
-| College Freshmen Mentor<br>(Selection From the Entire Department) | 2021.02 ~ 2022.02 | • Helpful Counseling for College Freshmen<br>• Participating Diverse Programs  |
 
-### 📖 Publication
+#### Publications
 - **J. Seo**, S. Jang, M. Kim, H. Yoon.(2023).Robust Captcha Image Recognition Algorithm Using Transformer-Based OCR Model. Proceedings of KIIT Conference.
-<br><br>
 - **J. Seo**, H. Yoon.(2023).Deep Learning-Based Vehicle Damage Area Detection System using Semantic Segmentation. Proceedings of KIISE Conference.
-<br><br>
 - **J. Seo**, G. Kim, J. Park, S. Kim.(2023).Segmentation of Stain Area in Clothing Images using UNet++. Proceedings of KIIT Conference.
-<br><br>
 - G. Kim, J. Park, **J. Seo**, Y. Jung, H. Yoon.(2022).Domain Dictionary Construction for Automatic Analysis of Subject CQI Reports. Proceedings of KIIT Conference.
-<br><br>
 - **J. Seo**, H. Yoon.(2022).Deep Learning-Based Vehicle Model and License Plate Identification System using Vehicle Images. Proceedings of KIIT Conference.
 
-### 🏆 Awards
+#### Awards
 - **J. Seo**, Y. Yoon, **1st Place Winner(대구광역시장상)**, 대구광역시 공공데이터 활용 창업경진대회, 2024, [[Link]](https://n.news.naver.com/article/030/0003228170?sid=102)
-<br><br>
 - **J. Seo**, S. Jang, M. Kim, H. Yoon, **Winning a Bronze Award for Outstanding Paper**, Proceedings of KIIT Conference, 2023, Korean Institute of Information Technology
-<br><br>
 - **J. Seo**, G. Kim, J. Park, S. Kim, **Winning a Bronze Award for Outstanding Paper**, Proceedings of KIIT Conference, 2023, Korean Institute of Information Technology
-<br><br>
 - G. Kim, J. Park, **J. Seo**, Y. Jung, H. Yoon, **Winning a Silver Award for Outstanding Paper**, Proceedings of KIIT Conference, 2022, Korean Institute of Information Technology
-<br><br>
 - **J. Seo**, H. Yoon, **Winning a Gold Award for Outstanding Paper**, Proceedings of KIIT Conference, 2022, Korean Institute of Information Technology
