@@ -11,32 +11,19 @@ Computer Vision and Machine Learning Researcher
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ssam2s/)](https://www.linkedin.com/in/ssam2s/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/xeo_xxn/)](https://www.instagram.com/xeo_xxn)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssam2s@knu.ac.kr)](mailto:ssam2s@knu.ac.kr)
-Master's Student of Artifical Intelligence
 
+#### Educations
+- B.S. of Computer Engineering, Kumoh National Institute of Techonology, KOREA (2020 ~ 2024)
+- M.S. Student of Artifical Intelligence, Kyungpook National University, KOREA (2024 ~ )
 
-### 📝 About Me  
-- Junhyeok Seo (서준혁)
-- B.S. of Computer Engineering, Kumoh National Institute of Techonology, KOREA (2020.3 ~ 2024.2) 
-- M.S. of Artificial Intelligence, Kyungpook National University, KOREA (2024.2 ~ )
-- Computer Vision and Machine Intelligence Lab. - Kyungpook National University, KOREA
-- Research Interests : Image Super-Resolution, Continual Learning
-- Contact : ssam2s@knu.ac.kr
-
-<h3>🛠 Skills</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Opencv-B8B9CD?style=flat-square&logo=Opencv&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/C++-1C509C?style=flat-square&logo=C%2B%2B&&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
-</p>
+#### Experiences
+- College Freshmen Mentor @ Kumoh National Institute of Technology - 2020
+- Office Automation and Data Processing @ WONIK QnC Inc. - 2021
+- Web Publisher @ TimeComs Inc. - 2022
+- LG Aimers @ LG - 2022
+- Academic Society Leader (셈틀꾼) @ Kumoh National Institute of Technology - 2022
+- Research Intern of System Software Lab. @ Kumoh National Institute of Technology - 2022.02 ~ 2024.02
+- Research Intern of Computer Vision and Machine Intelligence Lab. @ Kyungpook National University - 2023.06 ~ 2024.02
 
 ### ✨ Experience
 | Name | Date | Role |
