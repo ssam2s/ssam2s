@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ssam2s/hit-counter)](https://hits.seeyoufarm.com)
+
 ### 📝 About Me  
 - Junhyeok Seo (서준혁)
 - B.S. of Computer Engineering, Kumoh National Institute of Techonology, KOREA (2020.3 ~ 2024.2) 
