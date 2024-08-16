@@ -13,14 +13,14 @@ Computer Vision and Machine Learning Researcher
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssam2s@knu.ac.kr)](mailto:ssam2s@knu.ac.kr)
 
 #### Educations
-- B.S. of Computer Engineering, Kumoh National Institute of Techonology, KOREA (2020 ~ 2024)
-- M.S. Student of Artifical Intelligence, Kyungpook National University, KOREA (2024 ~ )
+- B.S. of Computer Engineering, [Kumoh National Institute of Techonology](https://www.kumoh.ac.kr/), KOREA (2020 ~ 2024)
+- M.S. Student of Artifical Intelligence, [Kyungpook National University](http://knu.ac.kr/), KOREA (2024 ~ )
 
 #### Experiences
 - College Freshmen Mentor @ Kumoh National Institute of Technology - 2020
 - Office Automation and Data Processing @ [WONIK QnC Inc.](https://www.wonikqnc.com) - 2021
 - Web Publisher @ [TimeComs Inc.](http://www.timecoms.com/) - 2022
-- LG Aimers @ LG - 2022
+- LG Aimers @ [LG AI Research](https://lgaimers.ai) - 2022
 - Academic Society Leader (셈틀꾼) @ Kumoh National Institute of Technology - 2022
 - Research Intern of System Software Lab. @ Kumoh National Institute of Technology - 2022.02 ~ 2024.02
 - Research Intern of Computer Vision and Machine Intelligence Lab. @ Kyungpook National University - 2023.06 ~ 2024.02
