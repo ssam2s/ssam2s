@@ -10,7 +10,7 @@ Computer Vision and Machine Learning Researcher
 [![Tech Blog Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/ssam2s/)](https://github.com/ssam2s/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ssam2s/)](https://www.linkedin.com/in/ssam2s/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/xeo_xxn/)](https://www.instagram.com/xeo_xxn)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nlp.with.deep.learning@gmail.com)](mailto:nlp.with.deep.learning@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ssam2s@knu.ac.kr)](ssam2s@knu.ac.kr)
 Master's Student of Artifical Intelligence
 
 
