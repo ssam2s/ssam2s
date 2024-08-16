@@ -18,7 +18,7 @@ Computer Vision and Machine Learning Researcher
 
 #### Experiences
 - College Freshmen Mentor @ Kumoh National Institute of Technology - 2020
-- Office Automation and Data Processing @ WONIK QnC Inc. - 2021
+- Office Automation and Data Processing @ [WONIK QnC Inc.](https://www.wonikqnc.com) - 2021
 - Web Publisher @ [TimeComs Inc.](http://www.timecoms.com/) - 2022
 - LG Aimers @ LG - 2022
 - Academic Society Leader (셈틀꾼) @ Kumoh National Institute of Technology - 2022
