@@ -17,7 +17,7 @@ Computer Vision and Machine Learning Researcher
 - M.S. Student of Artifical Intelligence, [Kyungpook National University](http://knu.ac.kr/), KOREA (2024 ~ )
 
 #### Experiences
-- College Freshmen Mentor @ Kumoh National Institute of Technology - 2020
+- College Freshmen Mentor @ Kumoh National Institute of Technology - 2021
 - Office Automation and Data Processing @ [WONIK QnC Inc.](https://www.wonikqnc.com) - 2021
 - Web Publisher @ [TimeComs Inc.](http://www.timecoms.com/) - 2022
 - LG Aimers @ [LG AI Research](https://lgaimers.ai) - 2022
