@@ -3,9 +3,8 @@
 
 Computer Vision and Machine Learning Researcher
 
-- Image Super-Resolution
 - Multimodal Learning
-- Continual Learning
+- Imitation Learning
 
 [![Tech Blog Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/ssam2s/)](https://github.com/ssam2s/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ssam2s/)](https://www.linkedin.com/in/ssam2s/)
@@ -27,9 +26,9 @@ Computer Vision and Machine Learning Researcher
 
 
 #### Publications
-- **J. Seo**, D. Lee.(2024).Diffusion Model Based Image Super-Resolution with Multi-Scale High Frequency Error Maps. TBD
+- **J. Seo**, D. Lee.(2024).Diffusion Model Based Image Super-Resolution with Multi-Scale High Frequency Error Maps. Proceedings of KIISE Conference(KSC2024).
 - **J. Seo**, S. Jang, M. Kim, H. Yoon.(2023).Robust Captcha Image Recognition Algorithm Using Transformer-Based OCR Model. Proceedings of KIIT Conference.
-- **J. Seo**, H. Yoon.(2023).Deep Learning-Based Vehicle Damage Area Detection System using Semantic Segmentation. Proceedings of KIISE Conference.
+- **J. Seo**, H. Yoon.(2023).Deep Learning-Based Vehicle Damage Area Detection System using Semantic Segmentation. Proceedings of KIISE Conference(KCC2023).
 - **J. Seo**, G. Kim, J. Park, S. Kim.(2023).Segmentation of Stain Area in Clothing Images using UNet++. Proceedings of KIIT Conference.
 - **J. Seo**, G. Kim, J. Park, Y. Jung, H. Yoon.(2022).Domain Dictionary Construction for Automatic Analysis of Subject CQI Reports. Proceedings of KIIT Conference.
 - **J. Seo**, H. Yoon.(2022).Deep Learning-Based Vehicle Model and License Plate Identification System using Vehicle Images. Proceedings of KIIT Conference.
