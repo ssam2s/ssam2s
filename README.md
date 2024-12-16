@@ -24,6 +24,8 @@ Computer Vision and Machine Learning Researcher
 - Research Intern of System Software Lab. @ Kumoh National Institute of Technology - 2022.02 ~ 2024.02
 - Research Intern of Computer Vision and Machine Intelligence Lab. @ Kyungpook National University - 2023.06 ~ 2024.02
 
+#### Teaching Assistant
+- 2024-2 Problem-Solving Skills and Algorithms(CAIB0230-001)
 
 #### Publications
 - **J. Seo**, D. Lee.(2024).Diffusion Model Based Image Super-Resolution with Multi-Scale High Frequency Error Maps. Proceedings of KIISE Conference(KSC2024).
